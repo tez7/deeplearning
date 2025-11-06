@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# some ipynb test file or folders
+research/*.ipynb*
+artifacts/*
+
 # Distribution / packaging
 .Python
 build/
